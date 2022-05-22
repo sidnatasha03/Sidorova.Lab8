@@ -1,0 +1,15 @@
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\bin\Debug\net6.0\Siddorrovva.L8.Ex1.exe
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\bin\Debug\net6.0\Siddorrovva.L8.Ex1.deps.json
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\bin\Debug\net6.0\Siddorrovva.L8.Ex1.runtimeconfig.json
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\bin\Debug\net6.0\Siddorrovva.L8.Ex1.dll
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\bin\Debug\net6.0\Siddorrovva.L8.Ex1.pdb
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.csproj.AssemblyReference.cache
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.AssemblyInfoInputs.cache
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.AssemblyInfo.cs
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.csproj.CoreCompileInputs.cache
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.dll
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\refint\Siddorrovva.L8.Ex1.dll
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.pdb
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\Siddorrovva.L8.Ex1.genruntimeconfig.cache
+C:\Users\пёс\source\repos\Siddorrovva.L8\Siddorrovva.L8.Ex1\obj\Debug\net6.0\ref\Siddorrovva.L8.Ex1.dll
